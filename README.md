@@ -14,7 +14,7 @@ You can get started your Teneo backed bot right now. just click the button! 😉
 
 ### 1. Click the below button!
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/jolzee/Botkit-template-for-heroku-slack-teneo)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/jolzee/botkit-template-for-heroku-slack-teneo)
 
 ### 2. Input the Slack token for your bot, specify your Teneo endpoint URL and deploy!
 

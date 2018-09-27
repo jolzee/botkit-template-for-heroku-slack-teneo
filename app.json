@@ -3,7 +3,7 @@
   "description": "A Slack Bot powered by Teneo. Uses Botkit and Heroku",
   "keywords": ["Botkit", "bot", "Slack", "Teneo", "CAI"],
   "repository": "https://github.com/jolzee/botkit-template-for-heroku-slack-teneo",
-  "logo": "https://raw.githubusercontent.com/jolzee/botkit-template-for-heroku-slack-teneo/master/teneo.png",
+  "logo": "https://raw.githubusercontent.com/jolzee/botkit-template-for-heroku-slack-teneo/master/teneo.jpg",
   "env": {
     "token": {
       "description": "Please input your Slack bot token",
