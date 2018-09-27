@@ -109,6 +109,7 @@ function sendUserInput(userInput, userId, callback) {
       });
       response.on("end", function() {
         // Data reception is done, do whatever with it!
+        console.log("Teneo Response: " + body);
         var parsed = JSON.parse(body);
         console.log("Parsed body: ");
         console.log(parsed);
