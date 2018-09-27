@@ -19,7 +19,8 @@
     },
     "engine_params": {
       "description": "Optional - Any additional Teneo Engine parameters. i.e. &firstName=Peter&lastName=Joles",
-      "value": ""
+      "value": "",
+      "required": false
     }
   }
 }

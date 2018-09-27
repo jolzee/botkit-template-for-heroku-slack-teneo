@@ -1,6 +1,9 @@
 {
   "name": "botkit-template-for-heroku-slack-teneo",
   "version": "0.0.1",
+  "scripts": {
+    "start": "node bot.js"
+  },
   "dependencies": {
     "botkit": "^0.4.0"
   }
