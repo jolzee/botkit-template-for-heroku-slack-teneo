@@ -27,6 +27,7 @@ if (!process.env.engine_params) {
 
 var Botkit = require("botkit");
 var os = require("os");
+var https = require("https");
 
 // this is needed to maintain user sessions
 var cookieStorage = {};
