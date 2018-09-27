@@ -1,5 +1,5 @@
 {
-  "name": "Botkit-template-for-heroku-slack-teneo",
+  "name": "botkit-heroku-slack-teneo",
   "description": "A Slack Bot powered by Teneo. Uses Botkit and Heroku",
   "keywords": ["Botkit", "bot", "Slack", "Teneo", "CAI"],
   "repository": "https://github.com/jolzee/botkit-template-for-heroku-slack-teneo",
