@@ -28,6 +28,7 @@ if (!process.env.engine_params) {
 var Botkit = require("botkit");
 var os = require("os");
 
+// this is needed to maintain user sessions
 var cookieStorage = {};
 
 var controller = Botkit.slackbot({
