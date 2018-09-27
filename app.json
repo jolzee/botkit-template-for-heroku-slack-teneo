@@ -17,7 +17,7 @@
       "description": "Please input your Teneo Engine Path.",
       "value": ""
     },
-    "engine_par": {
+    "engine_params": {
       "description": "Optional - Any additional Teneo Engine parameters. i.e. &firstName=Peter&lastName=Joles",
       "value": ""
     }
