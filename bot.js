@@ -22,7 +22,7 @@ if (!process.env.engine_path) {
 }
 
 if (!process.env.engine_params) {
-  console.log("Info: YOu can specify optional Teneo engine parameters");
+  console.log("Info: You can specify optional Teneo engine parameters");
 }
 
 var Botkit = require("botkit");
