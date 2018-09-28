@@ -18,4 +18,6 @@ You can get started your Teneo backed bot right now. just click the button! 😉
 
 ### 2. Input the Slack token for your bot, specify your Teneo endpoint URL and deploy!
 
+### 3. In Heroku you must change the Dyno from 'web' to 'worker'. Disable the 'web' dyno all together
+
 ### 3. Start conversing with your Slack Bot 😁🤖
