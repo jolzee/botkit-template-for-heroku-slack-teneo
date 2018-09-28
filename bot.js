@@ -1,6 +1,6 @@
 /*~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
- Botkit Basic Template for Heroku, Connecting SLack with Teneo
+ Botkit Basic Template for Heroku, Connecting SLack with Teneo.
 
  Author: Peter Joles (https://github.com/jolzee)
 
