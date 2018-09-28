@@ -87,8 +87,9 @@ function sendUserInput(userInput, userId, callback) {
   }
 
   console.log(
-    "Teneo URL: " +
+    "Teneo URL: https://" +
       process.env.engine_host +
+      process.env.engine_path +
       "?viewname=STANDARDJSON&channel=slack" +
       engine_params +
       "&userinput=" +
