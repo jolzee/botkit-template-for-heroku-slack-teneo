@@ -8,7 +8,7 @@ Slack based Botkit template for Heroku. This will allow you to quickly get a Sla
 
 Teneo is an Enterprise-strength NLI development and analytics platform that allows business users and developers to collaborate on creating sophisticated natural language applications in record time without the need for specialist linguistic skills. Created by [Artificial Solutions](https://www.artificial-solutions.com/).
 
-You can get started your Teneo backed bot right now. just click the button! 😉
+You can get started on your Teneo backed bot right now. just click the button! 😉
 
 ## Let's make your bot!
 
