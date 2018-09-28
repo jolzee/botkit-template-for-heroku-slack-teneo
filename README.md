@@ -18,6 +18,4 @@ You can get started your Teneo backed bot right now. just click the button! 😉
 
 ### 2. Input the Slack token for your bot, specify your Teneo endpoint URL and deploy!
 
-### 3. Then, you have to switch from 'web dyno' to 'worker dyno' by hand.
-
-### 4. Here we go! Enjoy developing your bot. 😁🤖
+### 3. Start conversing with your Slack Bot 😁🤖
